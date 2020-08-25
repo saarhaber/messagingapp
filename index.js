@@ -29,8 +29,6 @@ document.querySelector("form").addEventListener("submit", (e) => {
   });
 
 document.querySelector("input").value="";
-
-
   return false
 });
 
